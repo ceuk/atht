@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/** 
+* Theme design tokens (dark or light mode depending on user preferences)
+*/
+@import '../../styles/tokens-light.css';
+@media (prefers-color-scheme: dark) {
+  @import '../../styles/tokens-dark.css';
+}
+
+html,
+body {
+  @apply h-full text-text-primary bg-fill-primary;
+}
+body {
+  @apply px-6 py-10;
+}
+

@@ -1,0 +1,10 @@
+/**
+ * Light mode design tokens
+ */
+:root {
+  --fill-primary: #f8fafc;
+  --fill-secondary: #EFF3F7;
+  --fill-tertiary: #FFFFFE;
+  --text-primary: #1D1D1D;
+  --text-secondary: #6B7A90;
+}

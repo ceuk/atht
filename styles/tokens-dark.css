@@ -1,0 +1,8 @@
+@import './tokens-light.css';
+
+/** 
+* Dark mode design tokens
+
+* We're defaulting to the light mode tokens since we don't have the tokens for
+* dark mode yet 
+**/

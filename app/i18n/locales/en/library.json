@@ -1,0 +1,16 @@
+{
+  "heading": "Library",
+  "subheading": "Browse for assets needed to report and present analysis.",
+  "searchPlaceholder": "Type to search...",
+  "searchA11yLabel": "Search for assets",
+  "featured": "Featured",
+  "featuredSubheading": "Curated top picks from this week",
+  "trending": "Trending",
+  "trendingSubheading": "Popular assets from the community",
+  "tabs": {
+    "Featured": "Featured",
+    "KPI": "KPI",
+    "Layouts": "Layouts",
+    "Storyboards": "Storyboards"
+  }
+}
